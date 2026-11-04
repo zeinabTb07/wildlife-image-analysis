@@ -1,0 +1,5 @@
+category,total_observations,available_images,missing_images,unreadable_images,sampled_images
+mammals,3359,3359,0,0,100
+birds,19536,19536,0,0,100
+reptiles,4378,4378,0,0,100
+amphibians,1653,1653,0,0,100
