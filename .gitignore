@@ -1,0 +1,74 @@
+
+# =========================
+# Image files
+# =========================
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.heic
+*.raw
+*.cr2
+*.nef
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# System files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Environment & secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Logs & temporary files
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# =========================
+# Build & cache
+# =========================
+build/
+dist/
+*.egg-info/
+.cache/
