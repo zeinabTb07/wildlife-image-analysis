@@ -1,0 +1,9 @@
+{
+    "Total images": 28132,
+    "Images with valid paths": 28132,
+    "Images embedded": 28132,
+    "Failed embeddings": 0,
+    "Embedding dimension": 384,
+    "Model": "DINOv2 Small ViT-S/14",
+    "Normalized": true
+}

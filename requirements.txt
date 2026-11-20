@@ -1,0 +1,12 @@
+
+pandas
+numpy
+Pillow
+ImageHash
+requests
+scikit-learn
+torch
+torchvision
+transformers
+plotly
+ipywidgets
