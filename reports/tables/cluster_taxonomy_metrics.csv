@@ -1,0 +1,3 @@
+cluster_label,n_images,n_taxa_names,dominant_name,taxonomic_purity,species_entropy
+1,23313,1005,Domestic Cat,0.037232445416720286,5.750571293338706
+0,30,2,White-throated Dipper,0.6,0.6730116670092565

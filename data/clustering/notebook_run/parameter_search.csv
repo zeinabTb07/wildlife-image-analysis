@@ -1,0 +1,16 @@
+min_cluster_size,min_samples,n_clusters,noise_ratio,n_assigned,dbcv,dbcv_error,silhouette
+5,5,514,0.3157614104933883,19249,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.5960457921028137
+5,10,313,0.28060571591070665,20238,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6141031980514526
+5,20,211,0.28622209583392577,20080,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6518651247024536
+10,5,355,0.28199203753732405,20199,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.5931568145751953
+10,10,286,0.278366273283094,20301,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.63788902759552
+10,20,196,0.276731124697853,20347,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6527618169784546
+15,5,263,0.2445258069102801,21253,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6053687334060669
+15,10,245,0.26265462818143037,20743,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6340773701667786
+15,20,184,0.25661168775771365,20913,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6509047746658325
+20,5,235,0.24559220816152424,21223,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6070112586021423
+20,10,213,0.26148158680506184,20776,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6401476263999939
+20,20,180,0.2571093416749609,20899,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6493715643882751
+30,5,181,0.2404023887388028,21369,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6006402969360352
+30,10,168,0.24872031849850704,21135,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.645158588886261
+30,20,140,0.2342172614815868,21543,,"Buffer dtype mismatch, expected 'double_t' but got 'float'",0.6533860564231873
